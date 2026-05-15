@@ -2,9 +2,9 @@
 
 ## 0. Project Description / Overview
 
-This project focuses on analyzing a Food Delivery Dataset to identify the factors that affect delivery performance and customer service efficiency. The dataset contains information about delivery personnel, restaurant locations, weather conditions, traffic density, vehicle types, order categories, and delivery times. The main objective of the project is to clean, transform, analyze, and visualize the dataset using Power BI in order to generate meaningful insights and support data-driven decision-making.
+This project aims to analyze a Food Delivery Dataset to better understand the different factors that affect delivery performance and customer service efficiency. The dataset contains information about delivery personnel, restaurant locations, weather conditions, traffic density, vehicle types, order categories, and delivery times. The main goal of the project is to clean, organize, analyze, and visualize the dataset using Power BI in order to generate useful insights and support better decision-making.
 
-The project aims to develop an interactive dashboard that can help businesses monitor delivery operations, improve delivery time efficiency, evaluate driver performance, and understand how environmental factors such as weather and traffic influence delivery duration.
+The project also aims to create an interactive dashboard that can help businesses monitor delivery operations, improve delivery efficiency, evaluate rider performance, and understand how factors such as weather and traffic affect delivery time.
 
 ---
 
@@ -35,13 +35,13 @@ The dataset used in this project is a Food Delivery Dataset containing approxima
 | City                                   | City classification                            |
 | Time_taken(min)                        | Total delivery time in minutes                 |
 
-The dataset was collected from a public machine learning repository and used for analytical and visualization purposes.
+The dataset was gathered from a public machine learning repository and used for analysis and dashboard visualization purposes.
 
 ---
 
 # 2. Data Cleaning Process / Documentation
 
-The dataset underwent preprocessing and cleaning procedures using the CLEAN Framework to improve data quality and consistency.
+Before the analysis, the dataset underwent several preprocessing and cleaning procedures using the CLEAN Framework to improve data quality and consistency.
 
 ## Data Cleaning and Preparation Tasks
 
@@ -55,13 +55,13 @@ The dataset underwent preprocessing and cleaning procedures using the CLEAN Fram
 | Feature Extraction    | Extracted useful insights from date and time fields                    | Supported trend analysis                  |
 | Outlier Detection     | Identified abnormal delivery time values                               | Improved analytical accuracy              |
 
-After cleaning, the dataset became more structured, consistent, and suitable for visualization and predictive analysis.
+After the cleaning process, the dataset became more organized, accurate, and suitable for visualization and analytical processes.
 
 ---
 
 # 3. Data Model (Star Schema)
 
-The project will utilize a Star Schema data model for efficient reporting and dashboard performance.
+The project will use a Star Schema data model to improve reporting efficiency and dashboard performance.
 
 ## Fact Table
 
@@ -133,7 +133,7 @@ The project may also use forecasting techniques to estimate future delivery time
 
 # 4. Dashboard Wireframe Layout Following the DASH Framework
 
-The dashboard will follow the DASH Framework to ensure clarity, usability, and interactivity.
+The dashboard will follow the DASH Framework to ensure that the visualizations are clear, interactive, and easy to understand.
 
 ## Proposed Dashboard Sections
 
@@ -170,7 +170,7 @@ The dashboard will follow the DASH Framework to ensure clarity, usability, and i
 
 # 5. Visualization & Dashboard
 
-The project will develop an interactive dashboard using Microsoft Power BI.
+The researchers will develop an interactive dashboard using Microsoft Power BI.
 
 ## Dashboard Features
 
@@ -188,7 +188,7 @@ The project will develop an interactive dashboard using Microsoft Power BI.
 * Most Used Vehicle Type
 * Traffic Impact on Delivery Time
 
-The dashboard will provide a visual representation of delivery operations and help identify operational bottlenecks.
+The dashboard will provide a clear visual representation of delivery operations and help identify areas that need improvement.
 
 ---
 
@@ -212,7 +212,7 @@ The dashboard will provide a visual representation of delivery operations and he
 
 ## Real-World Interpretation
 
-The analysis can help food delivery companies improve operational efficiency, reduce customer waiting time, and enhance customer satisfaction through data-driven decision-making.
+The results of the analysis can help food delivery businesses improve operational efficiency, reduce customer waiting time, and increase customer satisfaction through data-driven decisions.
 
 ---
 
@@ -231,7 +231,7 @@ The following outputs are expected upon completion of the project:
 
 # 8. Expected Outcome Summary
 
-At the end of the project, the researchers expect to:
+At the end of the study, the researchers expect to:
 
 * Develop a fully functional Power BI dashboard for food delivery analytics.
 * Generate accurate and meaningful delivery performance insights.
@@ -239,4 +239,4 @@ At the end of the project, the researchers expect to:
 * Provide data-driven recommendations for improving food delivery services.
 * Demonstrate the effectiveness of descriptive and predictive analytics in business operations.
 
-The project is expected to contribute to better delivery management strategies and improved customer experience in the food delivery industry.
+Overall, the project is expected to contribute to better delivery management strategies and improved customer experience in the food delivery industry.
