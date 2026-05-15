@@ -1,13 +1,3 @@
-# EXPECTED OUTCOMES
-
-## 0. Project Description / Overview
-
-This project aims to analyze a Food Delivery Dataset to better understand the different factors that affect delivery performance and customer service efficiency. The dataset contains information about delivery personnel, restaurant locations, weather conditions, traffic density, vehicle types, order categories, and delivery times. The main goal of the project is to clean, organize, analyze, and visualize the dataset using Power BI in order to generate useful insights and support better decision-making.
-
-The project also aims to create an interactive dashboard that can help businesses monitor delivery operations, improve delivery efficiency, evaluate rider performance, and understand how factors such as weather and traffic affect delivery time.
-
----
-
 # 1. Data Collection Procedure
 
 ## a. Raw Dataset Profile
